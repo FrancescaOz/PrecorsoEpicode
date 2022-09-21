@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2? famiglia= Montserrat:wght@400;600 & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Prata & display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.main-section {
+    padding: 20px 20px 20px 20px;
+    background-color: #dddfd4;
+}
+
+.main-section2 {
+    padding: 20px 20px 20px 20px;
+    background-color: #dddfd4;
+}
+
+.image-container {
+    height: 500px;
+    background-image: url("/EPICODE/PRECORSO/Esercitazione 3- Css Basics/assets/Rakotzbrücke-Bridge.jpg");
+    background-position: center;
+    background-color: #dddfd4;
+    box-sizing: "border-box";
+    background-repeat: no-repeat;
+
+}
+
+.image-container2 {
+    height: 500px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ponte_della_Maddalena_at_night.JPG/1920px-Ponte_della_Maddalena_at_night.JPG");
+    background-position: center;
+    background-color: #dddfd4;
+    box-sizing: "border-box";
+    background-repeat: no-repeat;
+
+}
+
+
+.main-section3 {
+    padding: 20px 20px 20px 20px;
+    background-color: #dddfd4;
+}
+
+.image-container3 {
+    height: 500px;
+    background-image: url("https://www.diariodoviajante.pt/wp-content/uploads/2016/01/ponte-da-misarela-header.jpg");
+    background-position: center;
+    background-color: #dddfd4;
+    box-sizing: "border-box";
+    background-repeat: no-repeat;
+
+}
+.main-section4 {
+    padding: 20px 20px 20px 20px;
+    background-color: #dddfd4;
+}
+
+.image-container4 {
+    height: 500px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/5b/Pontarfynach_-_Devil's_Bridge,_Powys,_Wales_22.jpg");
+    background-position: center;
+    background-color: #dddfd4;
+    box-sizing: "border-box";
+    background-repeat: no-repeat;
+
+}
+.main-section5 {
+    padding: 20px 20px 20px 20px;
+    background-color: #dddfd4;
+}
+
+.image-container5 {
+    height: 500px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pont_du_Diable%2C_C%C3%A9ret.jpg/1200px-Pont_du_Diable%2C_C%C3%A9ret.jpg");
+    background-position: center;
+    background-color: #dddfd4;
+    box-sizing: "border-box";
+    background-repeat: no-repeat;
+
+}
+
+.main-section6 {
+    padding: 20px 20px 20px 20px;
+    background-color: #dddfd4;
+}
+
+.image-container6 {
+    height: 500px;
+    background-image: url("https://cdn.myportfolio.com/0c89e330-231a-4c19-b431-72075b793a7f/773f4fa0-a076-4238-9181-01023c2d6124_rw_1920.jpeg?h=4e287aad27a2e3b6478818c713ad7b3d");
+    background-position: center;
+    background-color: #dddfd4;
+    box-sizing: "border-box";
+    background-repeat: no-repeat;
+
+}
+img {
+    box-sizing: "border-box";
+    height: 500px;
+
+}
+
+h1 {
+    font-family: 'Prata', serif;
+}
+
+h1 {
+    font-family: 'Prata', serif;
+    font-size: 64px;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+h1,
+h3 {
+    margin-bottom: 0;
+    margin-top: 2px;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: oblique;
+}
+
+h4 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+
+    background: rgb(253, 205, 0);
+    background: linear-gradient(146deg, rgba(253, 205, 0, 1) 0%, rgba(83, 83, 57, 1) 72%);
+
+}
+
+h4:hover {
+    color: rgba(83, 83, 57, 1);
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px;
+    border-color: #dfdfdf;
+}
+
+img#testosx {
+    float: right;
+    margin: 15px 15px 15px 15px;
+    width: 400px;
+    height: auto;
+}
+
+
+.noUnderline {
+    text-decoration: none;
+    color: rgba(83, 83, 57, 1);
+}
+
+.noUnderline:hover {
+    color: rgba(253, 205, 0, 1)
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    text-align: center;
+}
